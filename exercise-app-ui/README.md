@@ -1,18 +1,20 @@
 # ExerciseAppUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
-innocent origin change here
+Some mod here
 
 This will mess wit hsomething lol.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-My local change here should not mess with the origin. This should definitely mess up big time
+My local change here should not mess with the origin. Here as well from local
+
 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
 My local change here should not mess with the origin. This should definitely mess up big time
 
 ## Build
