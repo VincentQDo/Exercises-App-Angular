@@ -6,11 +6,12 @@ innocent origin change here
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-My local change here should not mess with the origin
+My local change here should not mess with the origin. Here is a bonus conflict.
 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Another new conflict here hopefully
 
 ## Build
 

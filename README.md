@@ -2,6 +2,4 @@
 
 my local change here
 
-myOriginFunction(parameter){
-return origin value here;
-}
+A deletetion that will result in conflict from the local machine.
