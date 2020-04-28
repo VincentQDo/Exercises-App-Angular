@@ -2,6 +2,6 @@
 
 my local change here
 
-myFunction(parameter){
-return test value here;
+myOriginFunction(parameter){
+return origin value here;
 }
