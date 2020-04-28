@@ -2,6 +2,6 @@
 
 my local change here
 
-myOriginFunction(parameter){
-return origin value here;
-}
+Also modifying things here
+
+Various conflict
