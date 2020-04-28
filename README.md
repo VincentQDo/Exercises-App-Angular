@@ -2,7 +2,7 @@
 
 my local change here
 
-myOriginFunction(parameter){
-return origin value here;
-}
-Another branch change here, should mess with the merging of branch
+A deletetion that will result in conflict from the local machine.
+Also modifying things here
+
+Various conflict
